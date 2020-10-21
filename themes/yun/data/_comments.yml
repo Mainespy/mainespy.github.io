@@ -1,6 +1,6 @@
 # Comments
 comment:
-  enable: true
+  enable: false
   icon: icon-chat-3-line
   tips:
     - 点击按钮跳转 GitHub Issues 评论。
@@ -12,7 +12,7 @@ comment:
 # GitHub Issues Link Button
 # https://help.github.com/en/github/searching-for-information-on-github/searching-issues-and-pull-requests
 github_issues:
-  enable: true
+  enable: false
   username: YunYouJun
   repository: yunyoujun.github.io
   filters: is:issue
